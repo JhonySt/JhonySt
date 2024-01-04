@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Soy Jhonny Hernandez</h1>
 
-<img scr="https://i.pinimg.com/originals/73/4f/3e/734f3ef565eeba5027768d0c87066dd2.jpg">
-![Image text](https://i.pinimg.com/originals/73/4f/3e/734f3ef565eeba5027768d0c87066dd2.jpg)
+<img scr="https://i.pinimg.com/originals/73/4f/3e/734f3ef565eeba5027768d0c87066dd2.jpg" width="300px"/>
 <h3 align="center">Soy un apasionado por el desarrollo de software</h3>
 
 - 🧑‍🎓 Soy estudiante de desarrollo de software [ITM](https://www.itm.edu.co)
